@@ -1,4 +1,4 @@
-# Smart Attendance System (Android App)
+# Real-Time Attendance Monitoring System
 
 **General introduction**
 This project is a straightforward application in mobile form, aimed to improve student attendance tracking and security of this process to students and instructors. This replaces the current traditional means which allow attendance marks to be given through hands or can even be manipulated easily. With this, students must have to be present in location using the gps to check-in for attendance mark.
